@@ -20,6 +20,17 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:20200716@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Virtual Meet and Greet
+URL:https://tomesh.net/2020-07-16/meet-and-greet/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-07-16/meet-and-greet/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-07-16/meet-and-greet/
+DTSTART;TZID=America/Toronto:20200716T190000
+DTEND;TZID=America/Toronto:20200716T210000
+DTSTAMP:20200716T000000
+END:VEVENT
+BEGIN:VEVENT
 UID:20200528@tomesh.net
 ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
 LOCATION:Big Blue Button Video Chat
@@ -227,16 +238,5 @@ DESCRIPTION;ALTREP="Mesh outdoors Toronto Mesh and Free Geek \n\nFor details, li
 DTSTART;TZID=America/Toronto:20190629T130000
 DTEND;TZID=America/Toronto:20190629T160000
 DTSTAMP:20190629T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:20190516@tomesh.net
-ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
-LOCATION:Free Geek Toronto, 180 Sudbury St
-SUMMARY:Planning Session
-URL:https://tomesh.net/2019-05-16/planning-session/
-DESCRIPTION;ALTREP="Summer planning session for Toronto Mesh \n\nFor details, link here: https://tomesh.net/2019-05-16/planning-session/":Summer planning session for Toronto Mesh \n\nFor details, link here: https://tomesh.net/2019-05-16/planning-session/
-DTSTART;TZID=America/Toronto:20190516T183000
-DTEND;TZID=America/Toronto:20190516T213000
-DTSTAMP:20190516T000000
 END:VEVENT
 END:VCALENDAR
