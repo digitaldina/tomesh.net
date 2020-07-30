@@ -5,9 +5,27 @@
     <description>We help communities create better networks with open source and peer-to-peer technologies that promote digital literacy and privacy.</description>
     <link>https://tomesh.net/</link>
     <atom:link href="https://tomesh.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jul 2020 04:45:29 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2020 04:45:29 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2020 02:20:34 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2020 02:20:34 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Project Update</title>
+        <description>&lt;p&gt;Join us at 7:00pm  on August 13, 2020 as we  give updates on our current projects, coordinate between working groups, and go over how you can contribute!
+We will meet online at &lt;a href=&quot;https://bbb.hypha.coop/b/tom-ygc-ttm&quot;&gt;https://bbb.hypha.coop/b/tom-ygc-ttm&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our regular meetup venue Free Geek Toronto is &lt;a href=&quot;https://www.freegeektoronto.org/donate/&quot;&gt;currently accepting donations&lt;/a&gt; as they have been forced to close the majority of their operations due to COVID-19.&lt;/p&gt;
+
+&lt;p&gt;Planning on coming? Let us know through our &lt;a href=&quot;https://chat.tomesh.net/#/room/#tomesh:tomesh.net&quot;&gt;chat channel&lt;/a&gt; or email us at &lt;a href=&quot;mailto:hello@tomesh.net&quot;&gt;hello@tomesh.net&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This event has a &lt;a href=&quot;/code-of-conduct/&quot;&gt;code of conduct&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+        <link>https://tomesh.net/2020-08-13/project-update/</link>
+        <guid isPermaLink="true">https://tomesh.net/2020-08-13/project-update/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Virtual Meet and Greet</title>
@@ -274,52 +292,6 @@ Find your local number: https://zoom.us/u/ajJt7uqnw
         <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
         <link>https://tomesh.net/2020-02-22/community-infrastructure-learning-group/</link>
         <guid isPermaLink="true">https://tomesh.net/2020-02-22/community-infrastructure-learning-group/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Community Infrastructure Learning Group</title>
-        <description>&lt;p&gt;Looking to build on last meeting by scoping out some projects related to the short term road map. Namely the pub setup script, the accompanying docs, and blog/tutorial style walk through.&lt;/p&gt;
-
-&lt;p&gt;These seem interconnected enough that it might be good to scope them out together. Open to feedback on this during the week leading up to Saturday.&lt;/p&gt;
-
-&lt;p&gt;All skill levels welcome and wanted.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Topic: Community Infrastructure Learning Group
-Time: Jan 11, 2020 02:00 PM Eastern Time (US and Canada)
-        Every 2 weeks on Sat, until Apr 4, 2020, 7 occurrence(s)
-        Jan 25, 2020 02:00 PM
-        Feb 8, 2020 02:00 PM
-        Feb 22, 2020 02:00 PM
-        Mar 7, 2020 02:00 PM
-        Mar 21, 2020 02:00 PM
-        Apr 4, 2020 02:00 PM
-Please download and import the following iCalendar (.ics) files to your calendar system.
-Weekly: https://zoom.us/meeting/tJIufu2orjwqhuqjQO5VRq4XhKmhUAf4KQ/ics?icsToken=98tyKuCurTIuGtSSsF39e7MvA97ibPH2k3lbu6lss0rTMTEHWgvdO-p3E7QrO-mB
-
-Join Zoom Meeting
-https://zoom.us/j/963940070
-
-Meeting ID: 963 940 070
-
-One tap mobile
-+16468769923,,963940070# US (New York)
-+14086380968,,963940070# US (San Jose)
-
-Dial by your location
-        +1 646 876 9923 US (New York)
-        +1 408 638 0968 US (San Jose)
-        +1 669 900 6833 US (San Jose)
-Meeting ID: 963 940 070
-Find your local number: https://zoom.us/u/ajJt7uqnw
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;em&gt;Event on SSB: &lt;code class=&quot;highlighter-rouge&quot;&gt;%OccHFSq9z8Oe46jntfkYW7s4gLj3yFqdEE8izsaFD3s=.sha256&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-        <link>https://tomesh.net/2020-02-08/community-infrastructure-learning-group/</link>
-        <guid isPermaLink="true">https://tomesh.net/2020-02-08/community-infrastructure-learning-group/</guid>
         
         
       </item>

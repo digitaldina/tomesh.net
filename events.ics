@@ -20,6 +20,17 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:20200813@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Project Update
+URL:https://tomesh.net/2020-08-13/project-update/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-08-13/project-update/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-08-13/project-update/
+DTSTART;TZID=America/Toronto:20200813T190000
+DTEND;TZID=America/Toronto:20200813T210000
+DTSTAMP:20200813T000000
+END:VEVENT
+BEGIN:VEVENT
 UID:20200716@tomesh.net
 ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
 LOCATION:Big Blue Button Video Chat
@@ -227,16 +238,5 @@ DESCRIPTION;ALTREP="North York Central Library Tech Meet-Up \n\nFor details, lin
 DTSTART;TZID=America/Toronto:20190727T140000
 DTEND;TZID=America/Toronto:20190727T163000
 DTSTAMP:20190727T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:20190629@tomesh.net
-ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
-LOCATION:Free Geek Toronto, 180 Sudbury St
-SUMMARY:Multicultural Mesh at Free Geek
-URL:https://tomesh.net/2019-06-29/multicultural-mesh/
-DESCRIPTION;ALTREP="Mesh outdoors Toronto Mesh and Free Geek \n\nFor details, link here: https://tomesh.net/2019-06-29/multicultural-mesh/":Mesh outdoors Toronto Mesh and Free Geek \n\nFor details, link here: https://tomesh.net/2019-06-29/multicultural-mesh/
-DTSTART;TZID=America/Toronto:20190629T130000
-DTEND;TZID=America/Toronto:20190629T160000
-DTSTAMP:20190629T000000
 END:VEVENT
 END:VCALENDAR
